@@ -1,0 +1,6 @@
+echo "wersja kernela"
+uname -a
+echo "wersija gita"
+git --version
+echo "wersija busha"
+bush --versiony
